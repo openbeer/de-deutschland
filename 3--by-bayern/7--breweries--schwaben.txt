@@ -12,16 +12,30 @@
 #   - zehn Landkreise
 
 
-# -----------------------
-# -- Augsburg
+_________________________________
+- Augsburg
 
-thorbraeu, Brauerei Thorbräu|Thorbräu, 1582, www.thorbraeu.de, Wertachbrucker-Tor-Straße 9 // 86152 Augsburg
+[thorbraeu]
+  Brauerei Thorbräu|Thorbräu, 1582
+  www.thorbraeu.de
+  Wertachbrucker-Tor-Straße 9 // 86152 Augsburg
 
-augusta, Augusta Brauerei, 1488, www.augusta-brauerei.de, Lauterlech 10-14 // 86152 Augsburg
+[augusta]
+  Augusta Brauerei, 1488
+  www.augusta-brauerei.de
+  Lauterlech 10-14 // 86152 Augsburg
 
-hasenbraeu, Hasen-Bräu, 1464, www.hasen-braeu.de, Unterer Talweg 87 // 86179 Augsburg 
+[hasenbraeu]
+  Hasen-Bräu, 1464
+  www.hasen-braeu.de
+  Unterer Talweg 87 // 86179 Augsburg 
 
-riegele,  Brauhaus Riegele|Brauerei S. Riegele, 1386, www.riegele.de, Frölichstraße 26 // 86150 Augsburg
+[riegele]
+  Brauhaus Riegele|Brauerei S. Riegele, 1386
+  www.riegele.de
+  Frölichstraße 26 // 86150 Augsburg
+  de.wikipedia: Brauhaus_Riegele
+
 
 
 ####
@@ -34,14 +48,8 @@ koenigvonflandern, König von Flandern, www.koenigvonflandern.de, Karolinenstra�
 # Fortuna-Brauerei  ??
 
 
-#########
-# de.wikipedia
-#
-# riegele: Brauhaus_Riegele
-
-
-# ----------------------------
-# -- Landkreis Augsburg
+________________________________
+- Landkreis Augsburg
 
 Brauereigasthof Fuchs, Neusäß-Steppach // 
 Brauerei Rapp, Kutzenhausen // 
@@ -52,29 +60,29 @@ Staudenbräu, Walkertshofen //
 Ustersbacher, Ustersbach // 
 
 
-# ----------------
-# -- Kaufbeuren
+__________________________
+- Kaufbeuren
 
 aktienbrauerei, Aktienbrauerei Kaufbeuren, 1308, www.aktien-brauerei.de, Hohe Buchleuthe 3 // 87600 Kaufbeuren
 
 Communebrauerei Kaufbeuren, www.communebrauerei-kaufbeuren.de, Kappeneck 1 // 87600 Kaufbeuren
 
 
-# ----------------------------
-# -- Kempten (Allgäu)
+___________________________
+- Kempten (Allgäu)
 
 allgaeuer, Allgäuer Brauhaus, 1394, www.allgaeuer-brauhaus.de, Beethovenstraße 7 // 87435 Kempten
 
 
-# ----------------------------
-# -- Memmingen
+_______________________________
+- Memmingen
 
 Barfüßer, Memmingen // 
 Memminger Brauerei, Memmingen // 
 
 
-# ----------------------------
-# -- Landkreis Aichach-Friedberg
+____________________________________
+- Landkreis Aichach-Friedberg
 
 Brauerei Gasthof Peterhof, Kühbach // 
 Brauerei Kühbach, Kühbach // 
@@ -88,23 +96,27 @@ Schlossbrauerei Scherneck, Rehling //
 Schlossbrauerei Unterbaar, Baar // 
 
 
-# ----------------------------
-# -- Landkreis Dillingen a. d. Donau
+___________________________________________
+- Landkreis Dillingen a. d. Donau
 
 Schwanenbräu, Wertingen // 
 
-# ----------------------------
-# -- Landkreis Donau-Ries
+________________________________________
+- Landkreis Donau-Ries
 
-oettinger, Oettinger Brauerei, 1731, www.oettinger-bier.de, Brauhausstraße 8 // 86732 Oettingen
+[oettinger]
+  Oettinger Brauerei, 1731
+  www.oettinger-bier.de
+  Brauhausstraße 8 // 86732 Oettingen
+  de.wikipedia: Oettinger_Brauerei
 
 Anker Bräu, Nördlingen // 
 Maierbier, Nördlingen // 
 Wallersteiner Fürstenbier, Wallerstein // 
 
 
-# ----------------------------
-# -- Landkreis Günzburg
+__________________________________
+- Landkreis Günzburg
 
 Münzbrauerei, Günzburg // 
 Radbrauerei, Günzburg // 
@@ -117,14 +129,14 @@ Postbräu, Thannhausen //
 Schlossbrauerei Autenried, Ichenhausen-Autenried // 
 
 
-# ----------------------------
-# -- Landkreis Lindau (Bodensee)
+_________________________________________
+- Landkreis Lindau (Bodensee)
 
 Aktienbrauerei Simmerberg, Weiler-Simmerberg // 
 Meckatzer Löwenbräu, Heimenkirch // 
 
-# ----------------------------
-# -- Landkreis Neu-Ulm
+_________________________________
+- Landkreis Neu-Ulm
 
 Barfüßer, Neu-Ulm // 
 Roberts GenussBräu, Neu-Ulm-Reutti // 
@@ -136,8 +148,8 @@ Deilbräu, Osterberg //
 Illertisser Schlossbräu, Illertissen // 
 Kronbräu Illerberg, Illerberg // 
 
-# ----------------------------
-# -- Landkreis Oberallgäu
+______________________________
+- Landkreis Oberallgäu
 
 Brauerei Zötler, Rettenberg // 
 Engelbräu, Rettenberg // 
@@ -145,8 +157,8 @@ Hirschbräu Privatbrauerei Höss, Sonthofen //
 Schäffler-Bräu, Missen // 
 
 
-# ----------------------------
-# -- Landkreis Ostallgäu
+_________________________________
+- Landkreis Ostallgäu
 
 Braugasthof Falkenstein, Pfronten // 
 Irseer Klosterbräu, Irsee // 
@@ -157,8 +169,8 @@ Postbrauerei Nesselwang, Nesselwang //
 Sailerbräu, Leuterschach // 
 Schlossbrauhaus Schwangau, Schwangau // 
 
-# ----------------------------
-# -- Landkreis Unterallgäu
+___________________________________
+- Landkreis Unterallgäu
 
 Bad Wörishofer Löwenbräu, Bad Wörishofen // 
 Brauerei Kronburg, Kronburg // 

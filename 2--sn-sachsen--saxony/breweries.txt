@@ -4,7 +4,11 @@
 ### todo move brewpubs (Brauhaus, Hausbrauerei, etc.) to its own file)
 
 
-reudnitz, Leipziger Brauhaus zu Reudnitz, 1862-2012, Mühlstraße 13 // 04317 Leipzig   # part of Radeberger Gruppe
+[reudnitz]
+  Leipziger Brauhaus zu Reudnitz, 1862-2012
+  Mühlstraße 13 // 04317 Leipzig   # part of Radeberger Gruppe
+  de.wikipedia: Leipziger_Brauhaus_zu_Reudnitz
+
 # NB: Mit Wegfall der zuletzt noch gebrauten Produkte Reudnitzer Pilsner und Reudnitzer Ur-Bock
 # endete 2012 die Biermarke Reudnitzer.
 # Die Leipziger Brauhaus zu Reudnitz GmbH ist im Handelsregister gelöscht.

@@ -3,12 +3,18 @@
 
 
 
-berlinerkindl, Berliner-Kindl-Schultheiss-Brauerei, 1870, www.berliner-kindl.de, 13053 Berlin // Indira-Gandhi-Straße 66
+[berlinerkindl]
+  Berliner-Kindl-Schultheiss-Brauerei, 1870
+  www.berliner-kindl.de
+  13053 Berlin // Indira-Gandhi-Straße 66
   brands: Berliner Bürgerbräu, Berliner, Schultheiss, Berliner Kindl, Märkischer Landmann, Bärenpils, Potsdamer Rex
+  de.wikipedia: Berliner-Kindl-Schultheiss-Brauerei
+
 # ort: Alt-Hohenschönhausen / Lichtenberg  ## Alt-Hohenschönhausen ist ein Berliner Ortsteil im Bezirk Lichtenberg
 #  
 #  part of Brau & Brunnen  => part of Radeberger
 #  allow more (second) web links with |  ?? - e.g. www.berliner-kindl.de|www.schultheiss.de
+
 
 
 
