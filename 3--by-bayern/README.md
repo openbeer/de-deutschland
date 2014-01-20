@@ -1,2 +1,2 @@
-#  Beers n Breweries in Bayern (BY)
+#  Beers, Breweries n Brewpubs in Bayern (BY)
 

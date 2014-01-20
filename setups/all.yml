@@ -1,0 +1,34 @@
+
+breweries:
+- de-deutschland!/1--bb-brandenburg--berlin/breweries
+- de-deutschland!/1--be-berlin/breweries
+- de-deutschland!/2--sn-sachsen--saxony/breweries
+- de-deutschland!/3--by-bayern/1--oberbayern--breweries
+- de-deutschland!/3--by-bayern/2--niederbayern--breweries
+- de-deutschland!/3--by-bayern/3--oberpfalz--breweries
+- de-deutschland!/3--by-bayern/4--oberfranken-coburger-land--breweries
+- de-deutschland!/3--by-bayern/4--oberfranken-fichtelgebirge--breweries
+- de-deutschland!/3--by-bayern/4--oberfranken-fraenkische-schweiz--breweries
+- de-deutschland!/3--by-bayern/4--oberfranken-frankenwald--breweries
+- de-deutschland!/3--by-bayern/4--oberfranken-hassberge--breweries
+- de-deutschland!/3--by-bayern/4--oberfranken-steigerwald--breweries
+- de-deutschland!/3--by-bayern/5--mittelfranken--breweries
+- de-deutschland!/3--by-bayern/6--unterfranken--breweries
+- de-deutschland!/3--by-bayern/7--schwaben--breweries
+- de-deutschland!/4--bw-baden-wuerttemberg--black-forest/breweries
+- de-deutschland!/5--rp-rheinland-pfalz--southern-rhineland/breweries
+- de-deutschland!/5--sl-saarland--southern-rhineland/breweries
+- de-deutschland!/6--nw-nordrhein-westfalen--northern-rhineland/breweries
+- de-deutschland!/7--he-hessen--central/breweries
+- de-deutschland!/7--st-sachsen-anhalt--central/breweries
+- de-deutschland!/7--th-thueringen--central/breweries
+- de-deutschland!/8--hb-bremen--lower-saxony/breweries
+- de-deutschland!/8--ni-niedersachsen--lower-saxony/breweries
+- de-deutschland!/9--hh-hamburg--north/breweries
+- de-deutschland!/9--mv-mecklenburg-vorpommern--north/breweries
+- de-deutschland!/9--sh-schleswig-holstein--north/breweries
+
+
+beers:
+- de-deutschland!/beers
+- de-deutschland!/3--by-bayern/beers
