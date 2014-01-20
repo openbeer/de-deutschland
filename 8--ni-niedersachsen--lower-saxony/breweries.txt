@@ -1,8 +1,11 @@
-###################
+####################################################
 # Breweries in Niedersachsen [Lower Saxony] (NI)
 
 
-jever, Friesisches Brauhaus zu Jever, 1848, NI, Elisabethufer 18 // 26441 Jever, radeberger
+[jever]
+  Friesisches Brauhaus zu Jever, 1848
+  Elisabethufer 18 // 26441 Jever
+  radeberger
 
 
 

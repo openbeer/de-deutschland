@@ -1,12 +1,15 @@
-###################
+############################################
 # Breweries in Schleswig-Holstein (SH)
 
 ### todo move brewpubs (Brauhaus, Hausbrauerei, etc.) to its own file)
 # or split file in two sections
 
 
-flens, Flensburger Brauerei, 1888, www.flens.de, Flensburg // 
- brands: Flensburger
+[flens]
+  Flensburger Brauerei, 1888
+  www.flens.de
+  Flensburg // 
+  brands: Flensburger
 
 
 Dithmarscher Brauerei, www.dithmarscher.de, Marne // 
