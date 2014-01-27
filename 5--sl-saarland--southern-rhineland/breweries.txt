@@ -2,3 +2,17 @@
 # Breweries in Saarland (SL)
 
 
+Sudhaus,              www.sudhaus-dudweiler.de,     // Dudweiler
+Grosswald,           www.grosswald.de,              // Eiweiler
+Homburger Brauhaus,  www.homburger-brauhaus.de,     // Homburg
+Karlsberg,            www.karlsberg.de,            // Homburg
+Körpricher Landbräu,  www.landbrauerei.de,         // Körprich
+Hochwälder Brauhaus,   www.hochwaelder-brauhaus.de,   // Losheim am See
+Saarfürst Merziger Brauhaus,  www.saarfuerst.de,   // Merzig
+Mettlacher Abtei-Bräu,       www.abtei-brauerei.de, // Mettlach
+Stumm's Brauhaus,        www.stumms-brauhaus.de,    // Neunkirchen
+Bruch,                   www.brauerei-bruch.de,     // Saarbrücken
+Stiefel Bräu,            www.stiefelgastronomie.de, // Saarbrücken
+Schmelzer Brauhaus,      www.schmelzer-brauhaus.de, // Schmelz
+
+

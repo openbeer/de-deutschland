@@ -1,13 +1,55 @@
-###################
+########################################################
 # Breweries in Sachsen-Anhalt [Saxony-Anhalt] (ST)
 
-Hasseröder Brauerei, www.hasseroeder.de, Wernigerode // 
-Brauhaus zu Röglitz, 2010, Schkopau OT Röglitz // 
-Köthener Brauerei, 1861, Köthen // 
-Bitterfelder Brauerei, 1880, Bitterfeld-Wolfen // 
+
+Bitterfelder|Bitterfelder Brauerei, 1880, www.bitterfelder-bier.de, Bitterfeld-Wolfen // 
+
+Colbitzer Heidebrauerei, www.colbitzer-heidebrauerei.de, Colbitz // 
+
+Zum Alten Dessauer, www.alter-dessauer.de,  Dessau //
+
+[garley]
+  Garley Traditionsbrauhaus, 1314
+  www.garley.de
+  Sandstraße 58 - 60 // 39638 Gardelegen
+
+
+Burgbräu, www.wasserburg-zu-gommern.com, Gommern //
+
+Heine Bräu, www.hotel-heine.de, Halberstadt // 
+
+Die Gläserne Privatbrauerei, www.schad-mohr.de,  Halle //
+Hallesches Brauhaus,  www.brauhaushalle.de,  Halle // 
+
+Köthener Brauerei|Köthener Brauhaus, 1861,  www.brauhauskoethen.de,  Köthen // 
+
+Landsberger|Brauerei Landsberg, 1996, www.landsberger.de, Landsberg // 
+
+Spezialitätenbrauerei Eckart,  www.brauerei-eckart.de, Lindhorst //
+
 Brauhaus Wittenberg, www.brauhaus-wittenberg.de, Lutherstadt Wittenberg // 
-Garley Traditionsbrauhaus, 1314, Gardelegen // 
-Demmert-Bräu, www.demmert-brauerei.de, Neuendorf // 
+ 
 Diamant Brauhaus, www.diamant-brauhaus.de, Magdeburg // 
-Brauerei Landsberg, 1996, Landsberg // 
-Museums- und Traditionsbrauerei Wippra, www.wippra-bier.de, Sangerhausen / Wippra // 
+
+Dorfkrug, Neindorf // 
+
+Demmert-Bräu, www.demmert-brauerei.de, Neuendorf // 
+
+Lüdde, www.hotel-brauhaus-luedde.de, Quedlinburg // 
+
+[brauhauszuroeglitz]
+  Brauhaus zu Röglitz|Koth, 2010
+  www.brauhaus-zu-roeglitz.de
+  Röglitzer Hauptstraße 40d // 06258 Schkopau OT Röglitz
+
+
+
+Rothenschirmbach Brauhaus am Landmarkt, www.landmarkt-rothenschirmbach.de,  Rothenschirmbach // 
+
+Müller's Brauhaus, www.muellers-brauhaus.de,  // Schrampe
+
+Böhlke,   // Wackersleben
+
+Hasseröder|Hasseröder Brauerei, www.hasseroeder.de, Wernigerode // 
+
+Museumsbrauerei Wippra|Museums- und Traditionsbrauerei Wippra, www.wippra-bier.de, Sangerhausen / Wippra // 
