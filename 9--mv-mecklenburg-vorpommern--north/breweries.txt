@@ -3,45 +3,70 @@
 
 
 [luebz]
-  Mecklenburgische Brauerei Lübz, 1877
+  Mecklenburgische Brauerei Lübz|Lübzer, 1877
   www.luebzer.de
   Eisenbeissstraße 1 // 19386 Lübz
-# part of Holsten-Brauerei => part of Carlsberg
   brands: Duckstein, Lübzer Pils
+  de.wikipedia: Mecklenburgische_Brauerei_Lübz
+# part of Holsten-Brauerei => part of Carlsberg
+
 
 [rostock]
-  Hanseatische Brauerei Rostock, 1878
+  Hanseatische Brauerei Rostock|Rostocker, 1878
   www.rostocker.de
   Doberaner Straße 27 // 18057 Rostock
+  de.wikipedia: Hanseatische_Brauerei_Rostock
 # part of Radeberger
 
+
 [stralsunder]
-  Stralsunder Brauerei|Störtebeker Braumanufaktur, 1827
+  Störtebeker Braumanufaktur|Stralsunder Brauerei, 1827
   www.stralsunder.de
   Greifswalder Chaussee 84-85 // 18439 Hansestadt Stralsund
+  de.wikipedia: Störtebeker_Braumanufaktur
+
 
 [darunger]
-  Darguner Brauerei, 1991
+  Darunger|Darguner Brauerei, 1991
   www.brauerei-dargun.de
   Brauereistraße 3 // 17159 Dargun
-# part of Harboes Bryggeri aus Skælskør (Dänemark)
   brands: Darguner, Mecklenburger
+  de.wikipedia: Darguner_Brauerei
+# part of Harboes Bryggeri aus Skælskør (Dänemark)
 
+
+
+
+Ahlbecker Kellerbräu,   www.hotel-seestern.de,  Ahlbeck // 
+Barther Brauerei, www.brauerei-barth.de, Barth // 
+Eick Bräu, www.eickbraeu.de, Groß Gievitz // 
+
+Usedomer Brauhaus,  www.usedomer-brauhaus.de,  Heringsdorf // 
+
+Rumpelstilz Brauscheune,   www.rumpelstilz-brauscheune.de, Krummenhagen // 
+
+Ostsee Brauhaus,   www.ostsee-brauhaus.de,  Kühlungsborn // 
+
+Handwerksbrauerei Hennings,  www.brauerei-hennings.de,   Leezen // 
+
+Zur alten Fassfabrik,  www.recknitztal-hotel.de,   Marlow // 
+
+Wasserschloß Mellenthin|Wasserschloss Mellenthin Brauerei, 2011,  www.wasserschloss-mellenthin.de, Mellenthin // 
+
+Zur Linde,  www.landgasthof-zur-linde-ruegen.de,   Middelhagen // 
+
+Brauhaus zu Wallenstein,  www.wallensteinkeller.de,  Neubrandenburg // 
+
+Trotzenburg,   www.brauhaus-trotzenburg.de,  Rostock // 
+
+Brauhaus Ueckermünde, www.stadtkrug-ueckermuende.de,   Ueckermünde // 
 
 Vielanker Brauhaus, www.vielanker-brauhaus.de, Vielank // 
-Eick Bräu, www.eickbraeu.de, Groß Gievitz // 
-Wasserschloss Mellenthin Brauerei, 2011, Mellenthin // 
 
+Brauhaus Müritz,  www.brauhaus-mueritz.de,   Waren (Müritz) // 
 
-#############
-# Wikipedia  de.wikipedia.org/wiki/<value>
-#
-#  fix: add sections (skip on first pass)   use [wikipedia] or find
-#    better syntax/style for marking (optional) sections w/ key value pairs
+Brauhaus am Lohberg,   www.brauhaus-wismar.de,   Wismar // 
 
+Recknitz Bräu,   Wohrenstorf // 
 
-# luebz:       Mecklenburgische_Brauerei_Lübz
-# rostock:     Hanseatische_Brauerei_Rostock
-# stralsunder: Störtebeker_Braumanufaktur
-# darunger:    Darguner_Brauerei
 

@@ -5,30 +5,51 @@
 # or split file in two sections
 
 
+Brauhaus Eutin, www.brauhaus-eutin.de, Eutin // 
+
 [flens]
   Flensburger Brauerei, 1888
   www.flens.de
   Flensburg // 
   brands: Flensburger
+  de.wikipedia: Flensburger_Brauerei
+
+Hansens|Hansens Brauerei, www.hansensbrauerei.de, Flensburg //
+
+### fix: allow two or more web links e.g. sylter-hopfen.de
+Westindien Compagnie|Sylter Hopfen, www.westindien.com|www.sylter-hopfen.de,  Brauereiweg 21 // 24939 Flensburg
+
+Grönwohlder,   www.groenwohlder.de,   Grönwohld // 
+
+Husums Brauhaus, www.husums-brauhaus.de, Husum // 
+
+Kirschenholz, www.kirschenholz.de,  Hüttenwohld // 
 
 
-Dithmarscher Brauerei, www.dithmarscher.de, Marne // 
-Ricklinger Landbrauerei (Zur Alten Försterei), www.ricklinger-landbrauerei.de, Grüner Weg 1 // 24635 Rickling
-Westindien Compagnie, www.westindien.com,  Brauereiweg 21 // 24939 Flensburg
-Kieler Brauerei am Alten Markt, 1988, www.kieler-brauerei.de, Alter Markt 9 // 24103 Kiel
+Kieler|Kieler Brauerei am Alten Markt, 1988, www.kieler-brauerei.de, Alter Markt 9 // 24103 Kiel
+
 Bartels-Langness, www.hofgut-gutes-essen.de, Kiel //   # Hofgut Kellerbier
 
+
+Brauberger|Brauberger zu Lübeck, 1450, www.brauberger.com, Lübeck // 
+
+Dithmarscher|Dithmarscher Brauerei, www.dithmarscher.de, Marne // 
+
+Getränke Stapelfeldt,  www.getraenke-stapelfeldt.de,  Mölln // 
+
 Klüver's Brauhaus, www.kluevers-brauhaus.de, Neustadt in Holstein // 
+
+Ricklinger Landbrauerei (Zur Alten Försterei), www.ricklinger-landbrauerei.de, Grüner Weg 1 // 24635 Rickling
+
+
+
 Hannen Brauerei, www.hannen.de, Schenefeld // 
-Husums Brauhaus, www.husums-brauhaus.de, Husum // 
-Hansens Brauerei, www.hansensbrauerei.de, Flensburg // 
-Brauhaus Eutin, www.brauhaus-eutin.de, Eutin // 
-Brauberger zu Lübeck, 1450, Lübeck // 
+
 Landbrauerei Kirschenholz, www.kirschenholz.de, Hauptstraße 4 // 24637 Schillsdorf
 
+Asgaard, www.asgaard.de,  Schleswig // 
 
+Das Kleine Brauhaus,  www.schwarzenbeker-brauhaus.de,  Schwarzenbek // 
 
-################
-# de.wikipedia
-#
-# flens: Flensburger_Brauerei
+Brauerei Taarstedt,  www.brauerei-taarstedt.de,  Taarstedt // 
+

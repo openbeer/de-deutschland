@@ -11,52 +11,72 @@
 
 
 [lahnsteiner]
-  Lahnsteiner Brauerei, 1667
+  Lahnsteiner|Lahnsteiner Brauerei, 1667
   www.lahnsteiner-brauerei.de
-  Sandgasse 1 // 56112 Lahnstein
+  Sandgasse 1 // 56112 Lahnstein    ## Oberlahnstein ??
   brands: Lahnsteiner
+  de.wikipedia: Lahnsteiner_Brauerei
+
 
 [bischoff]
-  Privatbrauerei Bischoff, 1866
+  Bischoff|Privatbrauerei Bischoff, 1866
   www.bischoff-bier.de
   An den Hopfengärten 6 // 67722 Winnweiler
   brands: Bischoff
+  de.wikipedia: Privatbrauerei_Bischoff
+
 
 [westerwald]
-  Westerwald Brauerei, 1861
+  Westerwald|Westerwald Brauerei, 1861
   www.hachenburger.de
   Gehlerter Weg 12 // 57627 Hachenburg
   brands: Hachenburger
+  de.wikipedia: Westerwald-Brauerei
+
+
 
 ## fix: just a holding company ?? - todo/fix: use/add parkbrauerei oder bellheimer ?
 [parkbellheimer]
   Park & Bellheimer, 1888
   Zweibrücker Straße 2 // 66953 Pirmasens
   brands: Park, Bellheimer
+  de.wikipedia: Park_&_Bellheimer
 #
 # Zusammenschluss zweier regionaler Brauereien,
 # - der Parkbrauerei mit Sitz in Pirmasens
 # und der Bellheimer Privatbrauerei K. Silbernagel AG mit Sitz in Bellheim
 
 
-steffens, Privat-Brauerei Steffens, 1866, Linz am Rhein // 
+Bellheimer,  www.bellheimer.de,  Bellheim // 
+Park,   www.parkbrauerei.de,  Pirmasens // 
 
-koenigsbacher, Königsbacher Brauerei, 1689, www.koenigsbacher.de, Koblenz // 
 
-kirner, Kirner Privatbrauerei, 1798, Kirn // 
+[kirner]
+  Kirner|Kirner Privatbrauerei, 1798
+  www.kirner.de
+  Kirn // 
 
 
 [koblenzer]
-  Koblenzer Brauerei, 1689
+  Koblenzer|Koblenzer Brauerei, 1689
   www.koblenzer-brauerei.de
   An der Königsbach 8 // 56075 Koblenz
   brands: Koblenzer, Königsbacher, Zischke Kellerbier, Nette
+  de.wikipedia: Koblenzer_Brauerei
 
-nette, Brauerei zur Nette, 1849, www.nette.de,  Koblenz // 
+[nette]
+  Brauerei zur Nette, 1849
+  www.nette.de
+  Koblenz // 
+
+[koenigsbacher]
+  Königsbacher Brauerei, 1689
+  www.koenigsbacher.de
+  Koblenz // 
 
 
 [fohr]
-  Privatbrauerei Fohr, 1676
+  Fohr|Privatbrauerei Fohr, 1676
   www.fohr.de
   An der Brauerei // 56235 Ransbach-Baumbach
   brands: Fohr
@@ -67,19 +87,75 @@ nette, Brauerei zur Nette, 1849, www.nette.de,  Koblenz //
 # or split file in two sections
 
 
-kraftbraeu, Kraft Bräu (1. Trierer Hausbrauerei), 1998, www.kraftbraeu.de, Olewiger Straße 135 // 54295 Trier  # im Restaurant Blesius Garten
-zils,         Brauhaus Zils, www.brauhaus-zils.de, Waldstraße 1 // 54340 Naurath
-klostermachern, Brauhaus Kloster Machern, www.brauhaus-kloster-machern.de, An der Zeltinger Brücke // 54470 Bernkastel-Wehlen
-eisgrub,        Eisgrub-Bräu (1. Mainzer Gasthausbrauerei), 1989, www.eisgrub.de, Weissliliengasse 1a // 55116 Mainz
+[kraftbraeu]
+  Kraft Bräu|Kraft Bräu (1. Trierer Hausbrauerei), 1998
+  www.kraftbraeu.de
+  Olewiger Straße 135 // 54295 Trier  # im Restaurant Blesius Garten
+
+
+
+[klostermachern]
+  Kloster Machern|Brauhaus Kloster Machern
+  www.brauhaus-kloster-machern.de
+  An der Zeltinger Brücke // 54470 Bernkastel-Wehlen   #   in Machern  check
+
+[eisgrub]
+  Eisgrub-Bräu|Eisgrub-Bräu (1. Mainzer Gasthausbrauerei), 1989
+  www.eisgrub.de
+  Weissliliengasse 1a // 55116 Mainz
+
+
+zils,           Brauhaus Zils, www.brauhaus-zils.de, Waldstraße 1 // 54340 Naurath
 remagen,         Brauhaus Remagen,  www.brauhaus-remagen.de, Rheinpromenade 44 // 53424 Remagen
 castel,          Brauhaus Castel, www.brauhaus-castel.de, Otto-Suhr-Ring 27 // 55252 Mainz-Kastel
 
+steffens, Privat-Brauerei Steffens, 1866, Linz am Rhein // 
 
-#############
-# de.wikipedia
-#
-# bischoff: Privatbrauerei_Bischoff
-# koblenzer: Koblenzer_Brauerei
-# lahnsteiner: Lahnsteiner_Brauerei
-# westerwald: Westerwald-Brauerei
-# parkbellheimer: Park_&_Bellheimer
+
+
+
+Bells, www.apbells.de, Ahrweiler // 
+Alzeyer Volker-Bräu,  www.volkerbraeu.de,  Alzey // 
+Mahls Kleines Brauhaus|Bacchusbräu,  www.bacchusbräu.de,   Bacharach // 
+Brauwerk,  www.brauwerk.info,  Bad Kreuznach // 
+BeSte Bräu,  www.beste-braeu.de,  Cochem // 
+Wasgau Bräu,  www.wasgau-ag.de/sortiment/wasgau-brauerei,  Contwig // 
+Bierbrüderschaft Duzenowe,  Dausenau // 
+Jäger Bräu,  www.jägerbräu.de,   Edenkoben // 
+Brauhaus zur Post,  www.brauhaus-zur-post.de,  Frankenthal // 
+Göcklinger Hausbräu,  www.goecklingerhausbraeu.de,   Göcklingen // 
+
+Stadtbrauhaus Hermannbräu, www.stadtbrauhaus.de,  Hagenbach // 
+Nassauische Privatbrauerei, Hahnstätten //
+Hämm'scher Bier,   www.hämmscher-bier.de,  Hamm / Sieg // 
+Prinz Ludwig,   www.prinzludwig-hassloch.de,  Haßloch // 
+Brauhaus Ehrstein,  www.brauhaus-ehrstein.de,   Hinterweidenthal // 
+Hofstätter-Scheune-Bräu,  www.zurscheune.de,  Hofstätten // 
+Goldener Engel,  www.brauhausgoldenerengel.de,  Ingelheim // 
+Froschbräu,  www.froschl.de,   Jockgrim // 
+Brauhaus am Markt,  www.brauhaus-am-markt.com,  Kaiserslautern // 
+Brauhaus am Turm,  www.brauhaus-am-turm.de,  Kirchheimbolanden // 
+
+
+Braumanufaktur Durke,  www.braumanufaktur-durke.de,  Landau // 
+Mayer Bräu,   www.mayerbraeu.de,  Ludwigshafen // 
+Weißes Häus'l,  Ludwigshafen // 
+Rheinhessen Bräu, www.rheinhessen-braeu.de,  Mainz-Ebersheim // 
+Mannebacher Brauhaus,   www.mannebacher.de,  Mannebach // 
+Marienstatter Brauhaus,  www.abtei-marienstatt.de,  Marienstatt // 
+Vulkan,  www.vulkan-brauhaus.de,   Mendig // 
+Zils-Bräu, www.brauhaus-zils.de,   Naurath // 
+Neustadter Brauhaus,  www.brauhaus-neustadt.de,  Neustadt // 
+Marktbräu,  www.marktbraeu.de,   Neuwied // 
+Maximilians Brauwiesen,  www.maximilians-brauwiesen.de,  Niederlahnstein // 
+Erzquell,    www.erzquell.de,  Niederschelderhütte // 
+Ottersheimer Bärenbräu,  www.ottersheimer-baerenbraeu.de,  Ottersheim // 
+Kuchems Brauhaus,  www.kuchems-brauhaus.de,  Pirmasens // 
+
+Hof Schauferts,  www.schauferts.de,  Schönborn // 
+Stromberger Urbräu,  www.stromberger-urbraeu.de,  Schweppenhausen // 
+Domhof,    www.domhof.de, Speye // 
+Hagenbräu,  www.hagenbraeu.de,  Worms //
+
+
+
