@@ -116,7 +116,11 @@ _________________________________________
 Genossenschaftsbrauerei Reutberg, Sachsenkam-Reutberg // 
 Mühlfeldbräu, Bad Tölz //
 Tölzer Mühlfeldbräu, Bad Tölz //
-Wampenbräu, Bichl //
+
+[wampenbraeu]
+  Wampenbräu
+  www.wampenbraeu.de
+  83673 Bichl // Bachstr. 2
 
 
 ___________________________________________
