@@ -114,9 +114,16 @@ _________________________________________
 - Landkreis Bad Tölz-Wolfratshausen
 
 Genossenschaftsbrauerei Reutberg, Sachsenkam-Reutberg // 
-Mühlfeldbräu, Bad Tölz //
-Tölzer Mühlfeldbräu, Bad Tölz //
-Wampenbräu, Bichl //
+
+[tmb]
+  Tölzer Mühlfeldbräu
+  www.tmb.de
+  83646 Bad Tölz // Bahnhofstraße 4
+
+[wampenbraeu]
+  Wampenbräu
+  www.wampenbraeu.de
+  83673 Bichl // Bachstr. 2
 
 
 ___________________________________________
