@@ -98,3 +98,4 @@ Bayreuther Aktien Zwick'l Kellerbier   # Zwickelbier
 
 Richard Wagner Dunkel  #  Dunkelbier
 
+Wampenbräu Amber Ale, 5.4%, 13°, by:wampenbraeu, amber_ale
