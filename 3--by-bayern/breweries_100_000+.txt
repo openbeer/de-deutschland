@@ -1,0 +1,23 @@
+################################################
+# Breweries in Bayern  (> 100_000 hl)
+
+
+# -- Oberbayern
+
+[andechs]
+  Klosterbrauerei Andechs, 1455
+  www.andechs.de
+  82346 Andechs // Bergstraße 2
+
+
+
+# -- Oberfranken
+
+[leikeim]
+  Brauhaus Altenkunstadt Andreas Leikeim|Privatbrauerei Leikeim, 1887
+  Langheimer Straße 14 // 96264 Altenkunstadt
+  www.leikeim.de
+
+
+
+

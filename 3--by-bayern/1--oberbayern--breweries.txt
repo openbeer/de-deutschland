@@ -280,11 +280,6 @@ Klosterbrauerei Scheyern, Scheyern //
 __________________________________
 - Kreis Starnberg
 
-[andechs]
-  Klosterbrauerei Andechs ***, 1455
-  www.andechs.de
-  82346 Andechs // Bergstraße 2
-
 
 ________________________________
 - Kreis Traunstein
