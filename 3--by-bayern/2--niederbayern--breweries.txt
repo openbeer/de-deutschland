@@ -37,7 +37,6 @@ Schlossbrauerei Hohenthann, Hohenthann //
 # -- Passau
 
 Bayerische Löwenbrauerei Franz Stockbauer, Passau // 
-Brauerei Hacklberg, Passau // 
 Innstadt Brauerei Bierspezialitäten, Passau // 
 
 Weizenbierbrauerei Andorfer, Passau-Ries // 
@@ -76,7 +75,6 @@ Privatbrauerei Stöttner, Pfaffenberg //
 # -----------------------
 # -- Landkreis Deggendorf
 
-Arcobräu Gräfliches Brauhaus, Moos // 
 Schaubrauerei Bräu zur Isar, Plattling // 
 
 
@@ -114,7 +112,6 @@ riedenburger, Riedenburger Brauhaus, 1866, www.riedenburger.de, 93339 Riedenburg
 
 
 Brauerei und Gasthof Frischeisen, Kelheim // 
-Klosterbrauerei Weltenburg, Kelheim-Weltenburg // 
 
 Brauerei Berghammer, Bad Abbach-Oberndorf // 
 

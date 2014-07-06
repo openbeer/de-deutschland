@@ -51,7 +51,6 @@ Schimpfle, Gessertshausen //
 Schwarzbräu, Zusmarshausen // 
 Stadelbräu, Adelsried // 
 Staudenbräu, Walkertshofen // 
-Ustersbacher, Ustersbach // 
 
 
 __________________________
@@ -72,7 +71,6 @@ _______________________________
 - Memmingen
 
 Barfüßer, Memmingen // 
-Memminger Brauerei, Memmingen // 
 
 
 ____________________________________
@@ -97,11 +95,6 @@ Schwanenbräu, Wertingen //
 ________________________________________
 - Landkreis Donau-Ries
 
-[oettinger]
-  Oettinger Brauerei, 1731
-  www.oettinger-bier.de
-  Brauhausstraße 8 // 86732 Oettingen
-  de.wikipedia: Oettinger_Brauerei
 
 Anker Bräu, Nördlingen // 
 Maierbier, Nördlingen // 
@@ -126,7 +119,6 @@ _________________________________________
 - Landkreis Lindau (Bodensee)
 
 Aktienbrauerei Simmerberg, Weiler-Simmerberg // 
-Meckatzer Löwenbräu, Heimenkirch // 
 
 _________________________________
 - Landkreis Neu-Ulm

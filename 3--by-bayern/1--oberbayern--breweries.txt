@@ -15,48 +15,6 @@
 ______________________________
 - München
 
-## big six - Spatenbräu, Augustiner, Paulaner, Hacker-Pschorr, Hofbräu, Löwenbräu
-
-[augustiner]
-  Augustiner Bräu München ***, 1328
-  www.augustiner-braeu.de
-  80339 München // Landsberger Straße 31‎
-  de.wikipedia: Augustiner-Bräu
-
-[paulaner]
-  Paulaner Brauerei ***, 1634
-  www.paulaner.de
-  81541 München // Hochstraße 75‎
-  de.wikipedia: Paulaner_(Brauerei)
-
-[hackerpschorr]
-  Hacker-Pschorr Bräu ***, 1417
-  www.hacker-pschorr.de
-  81541 München // Hochstraße 75‎
-  de.wikipedia: Hacker-Pschorr
-
-# NB: war(!) eine Brauerei in München, und ist heute eine Marke der Paulaner-Brauerei
-
-[spatenbraeu]
-  Spaten-Franziskaner-Bräu ***, 1397
-  www.spatenbraeu.de
-  München //    # part of abinbev
-  de.wikipedia: Spatenbräu
-
-[loewenbraeu]
-  Löwenbräu ***, 1383
-  www.loewenbraeu.de
-  80335 München // Nymphenburger Straße 7‎
-  de.wikipedia: Löwenbräu
-
-# NB: Seit 1997 gehört Löwenbräu gemeinsam mit Spatenbräu der Spaten-Löwenbräu-Gruppe an, die wiederum zur Anheuser-Busch InBev-Gruppe gehört
-
-[hofbraeu]
-  Hofbräu München|Hofbräuhaus München|Staatliches Hofbräuhaus München ***, 1589
-  www.hofbraeu-muenchen.de
-  81829 München // Hofbräuallee 1 
-  de.wikipedia: Staatliches_Hofbräuhaus
-
 ## more
 
 CREW AleWerkstatt, München // 
@@ -217,10 +175,6 @@ _______________________________________
   www.hopfweisse.de
   83714 Miesbach // Schützenstraße 8+10
 
-[tegernsee]
-  Herzoglich Bayerisches Brauhaus Tegernsee|Herzogliches Bräustüberl Tegernsee
-  www.braustuberl.de
-  83684 Tegernsee // Schloßplatz 1
 
 
 Dietl Bräu, Weyarn // 
