@@ -94,8 +94,6 @@ Gräfliche Brauerei Arco-Valley, Eichendorf-Adldorf //
 
 Postbrauerei Renkl, Frontenhausen // 
 
-Privatbrauerei H. Egerer, Pilsting-Großköllnbach // 
-
 
 # -----------------------
 # --  Landkreis Freyung-Grafenau
@@ -113,8 +111,6 @@ Privatbrauerei Josef Lang, Jandelsbrunn //
 # --  Landkreis Kelheim
 
 riedenburger, Riedenburger Brauhaus, 1866, www.riedenburger.de, 93339 Riedenburg // Hammerweg 5 
-
-schneider, Weisses Bräuhaus G. Schneider & Sohn, www.schneider-weisse.de, 93309 Kelheim // Emil-Ott-Straße 5 
 
 
 Brauerei und Gasthof Frischeisen, Kelheim // 

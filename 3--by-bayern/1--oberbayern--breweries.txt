@@ -76,7 +76,6 @@ Weißbräu Bartholomäus Gmeineder, Oberhaching-Deisenhofen //
 _________________________
 - Ingolstadt
 
-Herrnbräu, Ingolstadt // 
 Nordbräu, Ingolstadt //
 Schöffbräu, Ingolstadt //
 Schwalbenbräu, Ingolstadt //
@@ -164,10 +163,6 @@ Privatbrauerei Hofmühl, Eichstätt //
 ________________________________
 - Landkreis Erding
 
-[erdinger]
-  Privatbrauerei Erdinger Weißbräu ***, 1886
-  www.erdinger.de
-  85435 Erding // Franz-Brombach-Straße 1
 
 
 Airbräu|Allresto Flughafen München, Flughafen München // 
@@ -186,23 +181,13 @@ Schloßbrauerei Grünbach bei Erding, Bockhorn (Oberbayern)-Grünbach //
 ______________________________
 - Landkreis Freising
 
-[weihenstephan]
-  Bayrische Staatsbrauerei Weihenstephan ***, 1040
-  www.brauerei-weihenstephan.de
-  285354 Freising // Alte Akademie
 
-
-Gräfliches Hofbrauhaus Freising GmbH, Freising // 
 Schloßbrauerei Au/Hallertau Willibald Freiherr Beck von Peccoz, Au in der Hallertau // 
 
 
 _______________________________
 - Landkreis Fürstenfeldbruck
 
-[koenigludwig]
-  König Ludwig Brauerei|König Ludwig Schlossbrauerei Kaltenberg **
-  www.koenig-ludwig-brauerei.com
-  82256 Fürstenfeldbruck // Augsburger Straße 41
 
 
 Privatbrauerei J. Sedlmayr, Maisach // 

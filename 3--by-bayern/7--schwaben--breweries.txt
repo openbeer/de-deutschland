@@ -30,12 +30,6 @@ _________________________________
   www.hasen-braeu.de
   Unterer Talweg 87 // 86179 Augsburg 
 
-[riegele]
-  Brauhaus Riegele|Brauerei S. Riegele, 1386
-  www.riegele.de
-  Frölichstraße 26 // 86150 Augsburg
-  de.wikipedia: Brauhaus_Riegele
-
 
 
 ####
@@ -93,7 +87,6 @@ Hinterhofbräu Aichach, Aichach //
 Landhausbräu Koller, Eurasburg // 
 Schlossbrauerei Blumenthal, Aichach (Schloss Blumenthal) // 
 Schlossbrauerei Scherneck, Rehling // 
-Schlossbrauerei Unterbaar, Baar // 
 
 
 ___________________________________________
