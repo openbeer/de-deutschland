@@ -243,6 +243,9 @@ ____________________________________
 - Kreis Weilheim-Schongau
 
 Dachsbräu, Weilheim in Oberbayern // 
-Maxbrauerei Biermanufaktur, Altenstadt // 
 
+[maxbrauerei]
+  Maxbrauerei Biermanufaktur
+  www.maxbrauerei.de
+  86972 Altenstadt // St.-Lorenz-Str. 14
 
