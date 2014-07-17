@@ -82,6 +82,8 @@ Genossenschaftsbrauerei Reutberg, Sachsenkam-Reutberg //
   www.wampenbraeu.de
   83673 Bichl // Bachstr. 2
 
+Hoppebräu, 83666 Waakirchen // Edelweißstr. 21
+
 
 ___________________________________________
 -  Landkreis Berchtesgadener Land
@@ -243,6 +245,9 @@ ____________________________________
 - Kreis Weilheim-Schongau
 
 Dachsbräu, Weilheim in Oberbayern // 
-Maxbrauerei Biermanufaktur, Altenstadt // 
 
+[maxbrauerei]
+  Maxbrauerei Biermanufaktur
+  www.maxbrauerei.de
+  86972 Altenstadt // St.-Lorenz-Str. 14
 
