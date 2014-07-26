@@ -35,8 +35,9 @@ Weihenstephaner Festbier,               5.8%, 13.3°, festbier|oktoberfest
 
 ## Real World Slideshow (Brewery n Beer Fotos)
 
+- [Weltenburg Beer Tour](https://plus.google.com/photos/100841117019192894371/albums/5918689157310682177) - Klosterbrauerei Weltenburg
 - [Passau Beer Tour](https://plus.google.com/photos/100841117019192894371/albums/6032660283182625281) - Weissbräu Andorfer, Brauerei Hacklberg
-
+- [Kulmbach, Bamberg Beer Tour](https://plus.google.com/photos/100841117019192894371/albums/5918686981244909281) - Kulmbacher Kommunbräu, Kulmbacher Bierwoche, Brauerei Spezial, Schlenkerla
 
 
 ## Questions? Comments?
