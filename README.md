@@ -32,6 +32,13 @@ Weihenstephaner Festbier,               5.8%, 13.3°, festbier|oktoberfest
 ...
 ~~~
 
+
+## Real World Slideshow (Brewery n Beer Fotos)
+
+- [Passau Beer Tour](https://plus.google.com/photos/100841117019192894371/albums/6032660283182625281) - Weissbräu Andorfer, Brauerei Hacklberg
+
+
+
 ## Questions? Comments?
 
 Send them along to the
