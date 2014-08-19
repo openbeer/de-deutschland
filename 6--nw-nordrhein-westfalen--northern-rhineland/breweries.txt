@@ -60,8 +60,6 @@
   Hagener Straße 261 // 57223 Kreuztal  #  liegt im Stadtteil Krombach
   brands: Krombacher (Pils, Extra Mild, Weizen)
 
-
-
 # ---- 1.4 Hellweg/Börde
 
 #####
@@ -69,7 +67,36 @@
 
 # ---- 2.1 Düsseldorf
 
+[fuechschen]
+  Brauerei Füchschen, 1848
+  http://www.fuechschen.de/
+  Ratinger Straße 28 // 40213 Düsseldorf  #  Altstadt
+  brands: Füchschen (Alt, Weihnachtsbier), Silberfüchschen (Weizen)
 
+[schluessel]
+  Brauerei Zum Schlüssel, 1850
+  http://www.zumschluessel.de/
+  Bolkerstraße 43 // 40213 Düsseldorf  #  Altstadt
+  brands: Schlüssel (Alt)
+
+[uerige]
+  Brauerei Uerige, 1862
+  http://www.uerige.de/
+  Berger Straße 1 // 40213 Düsseldorf  #  Altstadt
+  brands: Uerige (Alt, Sticke, Doppelsticke, Nicht filtriert, Weizen)
+
+[schumacher]
+  Brauerei Schumacher, 1838
+  http://www.schumacher-alt.de/
+  Oststraße 123 // 40210 Düsseldorf
+  brands: Schumacher (Alt, Latzen)
+
+[frankenheim]
+  Brauerei Frankenheim, 1873
+  http://www.frankenheim.de/
+  Wielandstraße 12 // 40211 Düsseldorf
+  brands: Frankenheim (Alt), Frankenheim Blue (Mix)
+  
 # ---- 2.2 Westliches Ruhrgebiet
 
 # ---- 2.3 Niederrhein
