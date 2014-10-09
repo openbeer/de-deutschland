@@ -4,13 +4,13 @@
 ____________________________________
 - Augustiner Bräu, München
 
-Augustiner Lagerbier Hell,  5.2%,   by:augustiner, helles
-Augustiner Edelstoff,       5.6%,   by:augustiner, muenchner
-Augustiner Weißbier,        5.4%,   by:augustiner, weisse
-Augustiner Oktoberfestbier, 6.0%,   by:augustiner, muenchner
-Augustiner Dunkel,          5.6%,   by:augustiner, dunkel
-Augustiner Pils,            5.6%,   by:augustiner, pilsner
-Augustiner Maximator,       7.5%,   by:augustiner, doppelbock
+Augustiner Lagerbier Hell,  5.2%,  helles
+Augustiner Edelstoff,       5.6%,  muenchner
+Augustiner Weißbier,        5.4%,  weisse
+Augustiner Oktoberfestbier, 6.0%,  muenchner
+Augustiner Dunkel,          5.6%,  dunkel
+Augustiner Pils,            5.6%,  pilsner
+Augustiner Maximator,       7.5%,  doppelbock
 
 
 
@@ -21,33 +21,33 @@ ____________________________________
 ____________________________________
 - Paulaner Brauerei, München
 
-Paulaner Original Münchner Hell,   4.9%,        by:paulaner, helles
-Paulaner Hefe-Weißbier Naturtrüb,  5.5%, 12.5°, by:paulaner, weisse
-Paulaner Hefe-Weißbier Leicht,     3.2%,        by:paulaner, weisse_leicht
-Paulaner Salvator,                 7.9%, 18.3°, by:paulaner,    doppelbock
-Paulaner Original Münchner Urtyp,               by:paulaner,  export
-Paulaner Weißbier Kristallklar,    5.2%, 11.8°, by:paulaner,   weisse_kristall
-Paulaner Münchner Hell Leicht,                  by:paulaner,   vollbier
-Paulaner Premium Pils,                          by:paulaner, pilsner
-Paulaner Original Münchner Dunkel,              by:paulaner, dunkel
-Paulaner Hefe-Weißbier Dunkel,                  by:paulaner, weisse_dunkel
-Paulaner Oktoberfestbier,                       by:paulaner, festbier|oktoberfest
+Paulaner Original Münchner Hell,   4.9%,         helles
+Paulaner Hefe-Weißbier Naturtrüb,  5.5%, 12.5°,  weisse
+Paulaner Hefe-Weißbier Leicht,     3.2%,         weisse_leicht
+Paulaner Salvator,                 7.9%, 18.3°,  doppelbock
+Paulaner Original Münchner Urtyp,                export
+Paulaner Weißbier Kristallklar,    5.2%, 11.8°,  weisse_kristall
+Paulaner Münchner Hell Leicht,                   vollbier
+Paulaner Premium Pils,                           pilsner
+Paulaner Original Münchner Dunkel,               dunkel
+Paulaner Hefe-Weißbier Dunkel,                   weisse_dunkel
+Paulaner Oktoberfestbier,                        festbier|oktoberfest
 
 ____________________________________
 - Hacker-Pschorr Brauerei, München
 
-Hacker-Pschorr Münchner Hell,       5.0%, 11.5°, by:hackerpschorr, helles
-Hacker-Pschorr Oktoberfest Märzen,  5.8%, 13.7°, by:hackerpschorr, maerzen
-Hacker-Pschorr Anno 1417,           5.5%, 12.5°, by:hackerpschorr
-Hacker-Pschorr Hefe Weisse,         5.5%, 12.5°, by:hackerpschorr, weisse
-Hacker-Pschorr Leichte Weisse,      3.2%,  7.7°, by:hackerpschorr, weisse_leicht
-Hacker-Pschorr Superior,            6.0%, 13.7°, by:hackerpschorr, muechner
-Hacker-Pschorr Münchener Gold,      5.5%, 12.5°, by:hackerpschorr, export
-Hacker-Pschorr Münchner Dunkel,     5.0%, 12.5°, by:hackerpschorr, dunkelbier
-Hacker-Pschorr Braumeister Pils,    5.0%, 11.5°, by:hackerpschorr, pilsner
-Hacker-Pschorr Animator,            8.1%, 19.3°, by:hackerpschorr, doppelbock
-Hacker-Pschorr Dunkle Weisse,       5.3%, 12.4°, by:hackerpschorr, weisse_dunkel
-Hacker-Pschorr Sternweisse,         5.5%, 12.0°, by:hackerpschorr, weisse
+Hacker-Pschorr Münchner Hell,       5.0%, 11.5°,  helles
+Hacker-Pschorr Oktoberfest Märzen,  5.8%, 13.7°,  maerzen
+Hacker-Pschorr Anno 1417,           5.5%, 12.5°, 
+Hacker-Pschorr Hefe Weisse,         5.5%, 12.5°,  weisse
+Hacker-Pschorr Leichte Weisse,      3.2%,  7.7°,  weisse_leicht
+Hacker-Pschorr Superior,            6.0%, 13.7°,  muechner
+Hacker-Pschorr Münchener Gold,      5.5%, 12.5°,  export
+Hacker-Pschorr Münchner Dunkel,     5.0%, 12.5°,  dunkelbier
+Hacker-Pschorr Braumeister Pils,    5.0%, 11.5°,  pilsner
+Hacker-Pschorr Animator,            8.1%, 19.3°,  doppelbock
+Hacker-Pschorr Dunkle Weisse,       5.3%, 12.4°,  weisse_dunkel
+Hacker-Pschorr Sternweisse,         5.5%, 12.0°,  weisse
 
 
 
@@ -103,15 +103,15 @@ _______________________________________________
 ____________________________________________________
 - Bayrische Staatsbrauerei Weihenstephan, Freising
 
-Weihenstephaner Hefeweissbier,          5.4%, 12.0°, by:weihenstephan, weisse
-Weihenstephaner Hefeweissbier Dunkel,   5.3%, 12.7°, by:weihenstephan, weisse_dunkel
-Weihenstephaner Kristallweissbier,      5.4%, 12.7°, by:weihenstephan, weisse_kristall
-Weihenstephaner Original Bayrisch Mild, 5.1%, 11.6°, by:weihenstephan, helles
-Weihenstephaner Infinium,              10.5%,        by:weihenstephan, starkbier
-Weihenstephaner Hefeweissbier Leicht,   3.2%,  7.7°, by:weihenstephan, weisse_leicht
-Weihenstephaner Pilsner,                5.1%, 11.8°, by:weihenstephan, pilsner
-Weihenstephaner Tradition,              5.2%, 12.8°, by:weihenstephan, dunkel
-Weihenstephaner Festbier,               5.8%, 13.3°, by:weihenstephan, festbier|oktoberfest
+Weihenstephaner Hefeweissbier,          5.4%, 12.0°, weisse
+Weihenstephaner Hefeweissbier Dunkel,   5.3%, 12.7°, weisse_dunkel
+Weihenstephaner Kristallweissbier,      5.4%, 12.7°, weisse_kristall
+Weihenstephaner Original Bayrisch Mild, 5.1%, 11.6°, helles
+Weihenstephaner Infinium,              10.5%,        starkbier
+Weihenstephaner Hefeweissbier Leicht,   3.2%,  7.7°, weisse_leicht
+Weihenstephaner Pilsner,                5.1%, 11.8°, pilsner
+Weihenstephaner Tradition,              5.2%, 12.8°, dunkel
+Weihenstephaner Festbier,               5.8%, 13.3°, festbier|oktoberfest
 
 
 
