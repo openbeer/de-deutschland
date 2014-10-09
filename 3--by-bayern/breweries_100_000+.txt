@@ -2,13 +2,6 @@
 # Breweries in Bayern  (> 100_000 hl)
 
 
-# -- Oberpfalz
-
-[bischofshof]
-  Brauerei Bischofshof, 1649
-  93049 Regensburg // Heitzerstraße 2
-  www.bischofshof.de
-
 
 # -- Oberfranken
 

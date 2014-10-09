@@ -1,16 +1,3 @@
-##################
-# Bayern > Oberpfalz
-#
-#  see de.wikipedia.org/wiki/Oberpfalz
-#
-# Verwaltungssitz: Regensburg
-# 
-# Größte Städte: 1. Regensburg, 2. Amberg, 3. Weiden, 4. Neumarkt
-#
-# Der Regierungsbezirk Oberpfalz umfasst
-#  - drei kreisfreie Städte und
-#  - sieben Landkreise
-
 
 # ----------------------------------
 # -- Regensburg
