@@ -1,16 +1,3 @@
-####################
-# Bayern > Schwaben
-#
-#   see de.wikipedia.org/wiki/Schwaben_(Bayern)
-#
-#  Verwaltungssitz: Augsburg
-# 
-# Größte Städte: 1. Augsburg, 2. Kempten, 3. Neu-Ulm, 4. Kaufbeuren
-#
-# Der Regierungsbezirk Schwaben umfasst
-#   - vier kreisfreie Städte und
-#   - zehn Landkreise
-
 
 _________________________________
 - Augsburg
