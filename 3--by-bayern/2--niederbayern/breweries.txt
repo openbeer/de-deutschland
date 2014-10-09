@@ -32,7 +32,6 @@ Weizenbierbrauerei Andorfer, Passau-Ries //
 # -- Landkreis Passau
 
 Bayerische Löwenbrauerei Franz Stockbauer (Schlossbrauerei Haselbach), Schloss Haselbach //   #  Zweigniederlassung  
-Brauerei Aldersbach Freiherr von Aretin, Aldersbach // 
 Brauerei Wolferstetter Georg Huber, Vilshofen an der Donau // 
 Brauhaus Aidenbach Woerlein, Aidenbach // 
 
@@ -74,7 +73,6 @@ Brauerei Wilhelm Krieger, Landau an der Isar //
 
 Brauerei Gebrüder Röhrl Zweigbetrieb Frontenhausen, Frontenhausen  // 
 
-Gräfliche Brauerei Arco-Valley, Eichendorf-Adldorf // 
 
 Postbrauerei Renkl, Frontenhausen // 
 
@@ -104,7 +102,6 @@ Brauerei Berghammer, Bad Abbach-Oberndorf //
 Brauerei Horneck, Elsendorf-Horneck // 
 
 Hofbräu Abensberg, Abensberg // 
-Brauerei Kuchlbauer, Abensberg // 
 Ottenbräu, Abensberg // 
 Weißbierbrauer, Abensberg // 
 
