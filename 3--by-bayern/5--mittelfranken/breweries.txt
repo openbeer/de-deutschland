@@ -1,15 +1,3 @@
-###############################
-# Bayern > Mittelfranken
-#
-#   see de.wikipedia.org/wiki/Mittelfranken
-#
-#  Verwaltungssitz: Ansbach
-# 
-# Größte Städte: 1. Nürnberg, 2. Fürth, 3. Erlangen, 4. Ansbach
-#
-# Der Regierungsbezirk Mittelfranken umfasst
-# - fünf kreisfreie Städte und
-# - sieben Landkreise
 
 # --------------------
 # -- Nürnberg
