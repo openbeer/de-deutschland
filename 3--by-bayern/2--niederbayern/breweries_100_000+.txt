@@ -1,0 +1,42 @@
+#################################
+# Breweries (> 100_000 hl)
+
+
+###
+## todo: add landkreis
+
+[hacklberg]
+  Brauerei Hacklberg, 1618
+  94034 Passau // Bräuhausplatz 3
+  www.hacklberg.de
+  de.wikipedia: Brauerei_Hacklberg
+  brands: Hacklberger
+
+[schneiderweisse]
+  Weisses Bräuhaus G. Schneider & Sohn|Schneider Weisse, 1872
+  93309 Kelheim // Emil-Ott-Straße 5 
+  www.schneider-weisse.de
+  de.wikipedia: Private_Weißbierbrauerei_G._Schneider_&_Sohn
+
+[arcobraeu]
+  Arcobräu Gräfliches Brauhaus, 1567
+  94554 Moos // Schloßallee 1
+  www.arcobraeu.de
+  de.wikipedia: Arcobräu
+  >140_000 hl
+  ## die_freien_brauer   ## die-freien-brauer.com
+
+[weltenburger]
+  Klosterbrauerei Weltenburg, 1050
+  93309 Kelheim // Asamstraße 32    ## Kelheim-Weltenburg
+  de.wikipedia: Kloster_Weltenburg#Klosterbrauerei
+  brands: Weltenburger
+
+
+[egerer]
+  Privatbrauerei H. Egerer, 1919
+  94431 Großköllnbach // Dachinger Straße 27     ## Pilsting-Großköllnbach
+  www.egerer.de
+  ## check if >100_000 hl (for beer?)
+
+

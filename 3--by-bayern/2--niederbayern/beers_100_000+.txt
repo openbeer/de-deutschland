@@ -1,0 +1,34 @@
+
+____________________________________
+- Brauerei Hacklberg, Passau
+
+
+___________________________________________________
+- Weisses Bräuhaus G. Schneider & Sohn, Kelheim
+
+Schneider Weisse, 5.4%, 12.8°
+
+
+
+[arcobraeu]
+  Arcobräu Gräfliches Brauhaus, 1567
+  94554 Moos // Schloßallee 1
+  www.arcobraeu.de
+  de.wikipedia: Arcobräu
+  >140_000 hl
+  ## die_freien_brauer   ## die-freien-brauer.com
+
+[weltenburger]
+  Klosterbrauerei Weltenburg, 1050
+  93309 Kelheim // Asamstraße 32    ## Kelheim-Weltenburg
+  de.wikipedia: Kloster_Weltenburg#Klosterbrauerei
+  brands: Weltenburger
+
+
+[egerer]
+  Privatbrauerei H. Egerer, 1919
+  94431 Großköllnbach // Dachinger Straße 27     ## Pilsting-Großköllnbach
+  www.egerer.de
+  ## check if >100_000 hl (for beer?)
+
+

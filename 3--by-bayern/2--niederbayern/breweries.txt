@@ -1,17 +1,3 @@
-#######
-# Bayern > Niederbayern
-#
-#  see de.wikipedia.org/wiki/Niederbayern
-#
-#  Verwaltungssitz: Landshut
-# 
-# Größte Städte: 1. Landshut, 2. Passau, 3. Straubing, 4. Deggendorf
-#
-# Regierungsbezirk Niederbayern umfasst
-#  - drei kreisfreie Städte und
-#  - neun Landkreise
-
-
 # -----------------------
 # -- Landshut
 
