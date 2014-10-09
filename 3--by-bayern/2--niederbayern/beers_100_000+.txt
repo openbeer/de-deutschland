@@ -41,10 +41,43 @@ Schneider Weisse TapX Meine Sommer Weisse, weizen
 ________________________________________
 -  Arcobräu Gräfliches Brauhaus, Moos
 
+Arcobräu Christkindl, maerzen|festbier
+Arcobräu Coronator, doppelbock
+Arcobräu Pilsener, pils
+Arcobräu Schloss Dunkel, dunkles
+Arcobräu Schloss Hell, lager
+Arcobräu Urfass, helles
+Arcobräu Weissbier Dunkel, weizen
+Arcobräu Weissbier Hell, weizen
+Arcobräu Weissbier Leicht, weizen
+
+Fips Weizen, weizen
+Graf Arco Light
+
+
 ________________________________________
 -  Klosterbrauerei Weltenburg, Kelheim
+
+Weltenburger Kloster Anno 1050, maerzen|festbier
+Weltenburger Kloster Asam Bock, dunkler_doppelbock
+Weltenburger Kloster Barock Dunkel, dunkles
+Weltenburger Kloster Barock Hell, helles
+Weltenburger Kloster Hefe-Weißbier Dunkel, weizen
+Weltenburger Kloster Hefe-Weißbier Hell, weizen
+Weltenburger Kloster Pils, pils
+Weltenburger Kloster Urtyp Hell, helles
+Weltenburger Kloster Winter-Traum, spezial
 
 _____________________________________________
 -  Privatbrauerei H. Egerer, Großköllnbach
 
+Egerer Altbayerisch Dunkel, dunkel
+Egerer Bayerisch Zwickel
+Egerer Edel Pils, pils
+Egerer Gold-Märzen, maerzen
+Egerer Original Export, export
+Egerer Urtyp Hell, helles
+Egerer Weizen Dunkel, dunkles_weizen
+Egerer Weizen Hell, helles_weizen
 
+König Wilhelm Hell, helles
