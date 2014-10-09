@@ -1,3 +1,23 @@
 ###################################
 # Breweries (> 20_000 hl)
 
+
+____________________________
+- Landkreis München
+
+[aying]
+  Brauerei Aying, 1878
+  Münchener Straße 21 // 85653 Aying
+  www.ayinger.de
+  brands: Ayinger
+
+
+______________________________
+- Landkreis Freising
+
+[auhallertau]
+  Schloßbrauerei Au-Hallertau|Schloßbrauerei Au/Hallertau Willibald Freiherr Beck von Peccoz, 1590
+  Schlossbräugasse 2	// 84072 Au in der Hallertau    ## Au-Hallertau
+  www.auerbier.de
+
+
