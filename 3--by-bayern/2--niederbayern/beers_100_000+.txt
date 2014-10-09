@@ -2,33 +2,49 @@
 ____________________________________
 - Brauerei Hacklberg, Passau
 
+Hacklberg Dult Festbier,  maerzen|festbier
+Hacklberg Dunkel,         dunkel
+Hacklberg Dunkel Spezial
+Hacklberg Edelhell Export, export
+Hacklberg eX!
+Hacklberg Festbier,   maerzen|festbier
+Hacklberg Hochfürst Pilsener, pils
+Hacklberg Humorator, doppelbock
+Hacklberg Jakobi Weißbier Dunkel, weizen
+Hacklberg Jakobi Weißbier Hell, weizen
+Hacklberg Jakobi Weißbier Leicht, weizen
+Hacklberg Jubiläumsbier
+Hacklberg Leicht
+Hacklberg Urhell
+Hacklberg Weihnachtstrunk, maerzen|festbier
+Hacklberg Zwickl
 
 ___________________________________________________
 - Weisses Bräuhaus G. Schneider & Sohn, Kelheim
 
 Schneider Weisse, 5.4%, 12.8°
 
+Schneider Weisse Aventinus Weizen Eisbock, weizendoppelbock
+Schneider Weisse Tap 1 Mein Blondes, weizen
+Schneider Weisse Tap 11 Unsere Leichte Weisse, weizen
+Schneider Weisse Tap 2 Mein Kristall, weizen
+Schneider Weisse Tap 4 Mein Grünes, weizen
+Schneider Weisse Tap 5 Meine Hopfenweisse, weizendoppelbock
+Schneider Weisse Tap 6 Unser Aventinus, weizendoppelbock
+Schneider Weisse Tap 7 Unser Original, weizen
+Schneider Weisse TapX Mein Cuvée Barrique, weizendoppelbock
+Schneider Weisse TapX Mein Nelson Sauvin, weizenbock
+Schneider Weisse TapX Meine Porter Weisse, porter_weissbier
+Schneider Weisse TapX Meine Sommer Weisse, weizen
 
 
-[arcobraeu]
-  Arcobräu Gräfliches Brauhaus, 1567
-  94554 Moos // Schloßallee 1
-  www.arcobraeu.de
-  de.wikipedia: Arcobräu
-  >140_000 hl
-  ## die_freien_brauer   ## die-freien-brauer.com
+________________________________________
+-  Arcobräu Gräfliches Brauhaus, Moos
 
-[weltenburger]
-  Klosterbrauerei Weltenburg, 1050
-  93309 Kelheim // Asamstraße 32    ## Kelheim-Weltenburg
-  de.wikipedia: Kloster_Weltenburg#Klosterbrauerei
-  brands: Weltenburger
+________________________________________
+-  Klosterbrauerei Weltenburg, Kelheim
 
-
-[egerer]
-  Privatbrauerei H. Egerer, 1919
-  94431 Großköllnbach // Dachinger Straße 27     ## Pilsting-Großköllnbach
-  www.egerer.de
-  ## check if >100_000 hl (for beer?)
+_____________________________________________
+-  Privatbrauerei H. Egerer, Großköllnbach
 
 
