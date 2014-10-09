@@ -2,3 +2,28 @@
 # Breweries (> 20_000 hl)
 
 
+_____________________________
+-  Landkreis Kelheim
+
+[kuchlbauer]
+  Brauerei Kuchlbauer|Brauerei zum Kuchlbauer, 1300
+  Römerstraße 5-9 // 93326 Abensberg 
+  www.weissbierbrauer-kuchlbauer.de
+
+
+________________________________
+-  Landkreis Dingolfing-Landau
+
+[grafarco]
+  Gräfliche Brauerei Arco-Valley|Brauerei Graf Arco, 1630
+  Hauptstraße 14 // 94428 Eichendorf-Adldorf         ## in Adldorf
+  www.graf-arco.de
+
+
+________________________________
+-  Landkreis Passau
+
+[aldersbach]
+  Brauerei Aldersbach Freiherr von Aretin, 1268
+  Freiherr-von-Aretin-Platz 1 // 94501 Aldersbach
+  www.aldersbacher.de
