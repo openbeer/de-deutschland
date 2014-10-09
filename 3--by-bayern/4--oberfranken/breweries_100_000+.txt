@@ -2,9 +2,6 @@
 # Breweries in Bayern  (> 100_000 hl)
 
 
-
-# -- Oberfranken
-
 [kulmbacher]
   Kulmbacher Brauerei, 1846
   95326 Kulmbach // Lichtenfelser Straße 9
