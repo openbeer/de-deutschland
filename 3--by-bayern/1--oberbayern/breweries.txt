@@ -12,7 +12,6 @@ Richelbräu, München-Neuhausen //
 ____________________________
 - Landkreis München
 
-Brauerei Aying, Aying //
 Di Gastro Fliegerbräu, Feldkirchen-Riem // 
 Di Gastro Isarbräu, Pullach-Großhesselohe // 
 Weißbräu Bartholomäus Gmeineder, Oberhaching-Deisenhofen //
@@ -127,9 +126,6 @@ Schloßbrauerei Grünbach bei Erding, Bockhorn (Oberbayern)-Grünbach //
 
 ______________________________
 - Landkreis Freising
-
-
-Schloßbrauerei Au/Hallertau Willibald Freiherr Beck von Peccoz, Au in der Hallertau // 
 
 
 _______________________________
