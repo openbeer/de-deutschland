@@ -7,15 +7,32 @@ ____________________________________
 Augustiner Lagerbier Hell,  5.2%,  helles
 Augustiner Edelstoff,       5.6%,  muenchner
 Augustiner Weißbier,        5.4%,  weisse
-Augustiner Oktoberfestbier, 6.0%,  muenchner
+Augustiner Oktoberfestbier, 6.0%,  maerzen|oktoberfest|festbier
 Augustiner Dunkel,          5.6%,  dunkel
 Augustiner Pils,            5.6%,  pilsner
 Augustiner Maximator,       7.5%,  doppelbock
 
+Augustiner Heller Bock, bock      ## exits ?? check
 
 
 ____________________________________
 - Hofbräu München, München
+
+Hofbräu Dunkel, dunkles
+Hofbräu Festbier, maerzen|festbier
+Hofbräu Kristall Weisse, weizen
+Hofbräu Maibock, bock
+Hofbräu Oktoberfestbier,  maerzen|festbier|oktoberfest
+Hofbräu Original, helles
+Hofbräu Pils, pils
+Hofbräu Schwarze Weisse, weizen
+Hofbräu Weisse Leicht, weizen
+
+HB Pure, helles
+HB Zweifach Gehopfter Hallodri
+
+Münchner Sommer Naturtrüb, naturtrueb
+Münchner Weisse, weizen
 
 
 ____________________________________
@@ -32,6 +49,9 @@ Paulaner Premium Pils,                           pilsner
 Paulaner Original Münchner Dunkel,               dunkel
 Paulaner Hefe-Weißbier Dunkel,                   weisse_dunkel
 Paulaner Oktoberfestbier,                        festbier|oktoberfest
+
+
+
 
 ____________________________________
 - Hacker-Pschorr Brauerei, München
@@ -55,18 +75,35 @@ Hacker-Pschorr Sternweisse,         5.5%, 12.0°,  weisse
 ____________________________________
 - Spaten-Franziskaner-Bräu, München
 
-Spaten Münchner Hell  # Münchener
+Spaten Münchner Hell, helles  # Münchener
+
+Spaten Oktoberfestbier, maerzen|festbier|oktoberfest
+Spaten Optimator, doppelbock
+Spaten Pils, pils
+Spaten Diät-Pils, pils
+
 
 Franziskaner Hefe-Weißbier Hell  # Weißbier
 Franziskaner Weißbier Kristallklar  # Weißbier Kristall
 Franziskaner Royal   # Weißbier
 
+Franziskaner Hefe-Weissbier Dunkel, weizen
+Franziskaner Hefe-Weissbier Leicht, weizen
+Franziskaner Hefe-Weissbier Naturtrüb, weizen
 
 
 ____________________________________
 - Löwenbräu, München
 
 Löwenbräu Original  # Helles
+
+Löwen Weisse, weizen       ## use Löwenbräu ??
+Löwenbräu Dunkel, dunkles
+Löwenbräu Oktoberfestbier, maerzen|festbier|oktoberfest
+Löwenbräu Premium Pils, pils
+Löwenbräu Schwarze Weisse, weizen
+Löwenbräu Triumphator, doppelbock
+Löwenbräu Urtyp
 
 
 
@@ -100,6 +137,24 @@ Erdinger Urweisse   # Weißbier
 _______________________________________________
 - Gräfliches Hofbrauhaus Freising, Freising
 
+Graf Ignaz Lager, lager
+Graf Ignaz Premium Pilsner, pils
+Graf Toerring Export, export|spezial
+Graf Toerring Hell, helles
+Graf Toerring Schwarzbier Premium Dunkel, schwarzbier
+
+Hofbrauhaus Freising Dunkel Premium, dunkles
+Hofbrauhaus Freising Festbier, festbier
+Hofbrauhaus Freising Jägerbier, export
+Hofbrauhaus Freising Urhell, helles
+
+Huber Weisses Dunkel, dunkles_weizen
+Huber Weisses Fresh, weizen
+Huber Weisses Kristall, weizen
+Huber Weisses Leicht, weizen
+Huber Weisses Original, weizen
+
+
 ____________________________________________________
 - Bayrische Staatsbrauerei Weihenstephan, Freising
 
@@ -118,4 +173,20 @@ Weihenstephaner Festbier,               5.8%, 13.3°, festbier|oktoberfest
 ____________________________________
 - Herrnbräu, Ingolstadt
 
+Herrnbräu Dunkel, export
+Herrnbräu Hefe Weißbier Dunkel, weizen
+Herrnbräu Hefe Weißbier Hell, weizen
+Herrnbräu Helles Vollbier, helles
+Herrnbräu Ingolstädter Gold
+Herrnbräu Kristall Weizen, weizen
+Herrnbräu Leichtes Weizen, weizen
+Herrnbräu Pantherweisse Hefeweissbier Naturtrüb, weizen
+Herrnbräu Premium Pils, pils
+Herrnbräu Römergold
+Herrnbräu Roter Panther
+Herrnbräu Schneewalzer, weizen
+Herrnbräu Tradition, maerzen|festbier
+Herrnbräu Weihnachtsbier, festbier
+Herrnbräu Weizenbock, weizenbock
+Herrnbräu Zwickl
 
