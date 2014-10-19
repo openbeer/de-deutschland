@@ -16,7 +16,7 @@ ___________________________________________
 -  Landkreis Berchtesgadener Land
 
 [buergerbraeu]
-  Bürgerbräu Bad Reichenhall|Bürgerbräu Bad Reichenhall August Röhm & Söhne, 1633
+  Alpenbrauerei Bürgerbräu|Bürgerbräu Bad Reichenhall|Bürgerbräu Bad Reichenhall August Röhm & Söhne, 1633
   Waaggasse 1-3 // 83435 Bad Reichenhall
   www.buergerbraeu.com
   brands: Alpenstoff

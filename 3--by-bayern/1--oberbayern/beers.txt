@@ -1,0 +1,106 @@
+
+___________________________________________
+- Maxbrauerei Biermanufaktur, Altenstadt
+
+Maxbrauerei Zwickel Hell, 5.2%, zwickel
+Maxbrauerei Bernstein Hefeweizen, 5.8%, weizen
+Maxbrauerei Saphir Indian Pale Ale, 7.2%, india_pale_ale
+
+Maxbrauerei Indian Pale Ale, ipa
+Maxbrauerei Black IPA, black_india_pale_ale
+
+Altenstädter Spezial Dunkle Wies'n-Weisse
+Altenstädter Spezial Maibock
+Altenstädter Spezial Weizenbock
+
+
+______________________________
+- Kapplerbräu, Altomünster
+
+Pater Simon Pils, 5%, pils
+Pater Simon Piccolo Weizen, 4.8%, weizen
+
+Kapplerbräu Altomünster Export Hell, 5.2%, export
+Echt Altomünsterer Hefeweisse, 5.2%, weizen
+Kapplerbräu Altomünster Leichte Weisse, weizen
+
+Probst Sutor Märzen,  maerzen|festbier
+Dunkles Zunftbier Naturtrüb
+
+
+___________________________________________
+- Maierbräu,  Altomünster
+
+Maierbräu Altomünster Export Hell, 4.9%
+Maierbräu Altomünster Alto Dunkel, 4.9%
+Maierbräu Altomünster Jacobi Pils, 4.9%, pils
+Maierbräu Altomünster Landler Weisse, 5%
+Maierbräu Altomünster Landler Weisse Dunkel, 5%
+
+Maierbräu Altomünster Anno 1658, zwickel|naturtrueb
+Mensch Maier Lagerbier
+
+
+___________________________________________
+- Graminger Weißbräu, Graming (Altötting)
+
+Graminger Berggeist - Dunkler Weizenbock, 6.8%, weizenbock|dunkel
+Graminger Kirta - Dunkles Hefeweissbier, 5.4%, weizen|dunkel
+Graminger Weissbier, 5.2%, weizen
+Graminger Märzen Unfiltriert, 5.4%, maerzen
+Graminger Pils, 4.9%, pils
+Graminger Leichtere Weisse, weizen|lite
+
+___________________________________________
+- Brauerei Ametsbichler, Aschau am Inn
+
+Aschauer Bio-Hell, 5%, export
+Aschauer Bio-Hell Zwickel, export
+Aschauer Bio-Dunkel, 5%, export
+Aschauer Bio-Spezial Pils, 5%, pils
+
+Communicator, doppelbock
+
+___________________________________________
+- Tölzer Mühlfeldbräu, Bad Tölz
+
+Tölzer Naturtrübes Helles, 4.9%, helles
+Tölzer Weißbier, 4.9%, weizen
+
+Tölzer Herbstweisse
+Tölzer Dunkles
+Tölzer Weihnachtsbock
+
+___________________________________________________
+- Klosterbrauerei Baumburg, Altenmarkt an der Alz
+
+Klosterbrauerei Baumburg Kloster Hell, 4.8%, helles
+Klosterbrauerei Baumburg Export Hell, 5.2%, export
+Baumburger Kosterdunkel, 5.5%
+Klosterbrauerei Baumburg Kloster Pils, 4.8%, pils
+
+Klosterbrauerei Baumburg Kloster Weiße, weizen
+Klosterbrauerei Baumburg Dunkle Weiße, dunkles_weizen
+
+Klosterbrauerei Baumburg Heller Bock, heller_bock
+Klosterbrauerei Baumburg Märzen Spezial, maerzen|festbier
+
+Klosterbrauerei Baumburg Chorherrenbock, bock
+
+Baumburger Stopfbock, heller_bock
+Klosterbrauerei Baumburg Bio Klosterdunkel, dunkles
+Klosterbrauerei Baumburg Festbier, festbier
+Klosterbrauerei Baumburg Kloster Hell Naturtrüb, zwickel
+Klosterbrauerei Baumburg Weissbier Bock, weizenbock
+
+
+___________________________________________________
+- Schattenhofer, Beilngries
+
+Schattenhofer Hirsch Helles Lagerbier, 4.8%, helles_lager
+Schattenhofer Hahn Pilsbier, 4.7%, pils
+
+
+
+
+

@@ -125,15 +125,15 @@ König Ludwig Weissbier Leicht, weizen
 ____________________________________
 - Klosterbrauerei Andechs, Andechs
 
-Andechser Hell, helles
-Andechser Spezial Hell, spezial
-Andechser Dunkel
+Andechser Hell|Andechser Vollbier Hell, 4.8%, helles
+Andechser Spezial Hell, 5.8%, spezial
+Andechser Dunkel|Andechser Export Dunkel, 4.9%, dunkel
 
-Andechser Weissbier Hefetrüb, weizen
+Andechser Weissbier Hefetrüb, 5%, weizen
 Andechser Dunkles Weissbier, weizen
 
-Andechser Bergbock Hell, bock
-Andechser Doppelbock Dunkel, doppelbock
+Andechser Bergbock Hell, 7%, bock
+Andechser Doppelbock Dunkel, 7%, doppelbock|dunkel
 
 
 ________________________________________________________

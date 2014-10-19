@@ -1,0 +1,68 @@
+
+_____________________________________________________
+- Schlossbrauerei Au-Hallertau, Au in der Hallertau
+
+Holledauer Weisses, 5.3%, weizen
+Holledauer Dunkles, 5%, dunkles_weizen
+Holledauer Leichtes, weizen
+
+Auer Helles, 4.7%, lager
+Auer Dunkeles, 5.2%, dunkles
+Auer Pilsner, 4.9%, pils
+Auer Export, export
+Auer Maibock, maibock
+
+Ecco Feinstes Pilsner|Ecco Premium Pilsner, pils
+
+Hallertauer Kellerbier Hell, kellerbier
+Hallertauer Kellerbier Dunkel, kellerbier
+Hallertauer Festivalbier
+
+Hopfengold, export
+Hopfull Hallertauer Pale Ale, ipa
+Schlossbräu Märzen, maerzen
+
+
+_____________________________
+- Brauerei Aying, Aying
+
+Ayinger Premium-Pils, 5%, pils
+Ayinger Lager Hell, 4.9%, helles
+Ayinger Bräu-Weisse, 5.1%, weizen
+Ayinger Ur-Weisse Dunkles Hefeweizenbier, weizen
+Ayinger Altbairisch Dunkel, 5%, export
+
+Celebrator Doppelbock, 6.7%, doppelbock
+
+Ayinger Bräu Hell, helles
+Ayinger Frühlingsbier
+Ayinger Jahrhundert-Bier, export
+Ayinger Kirta-Halbe, maerzen|export
+Ayinger Leichte Bräu-Weisse, weizen
+Ayinger Liebhard's Kellerbier, kellerbier
+
+Ayinger Weizenbock, weizenbock
+Ayinger Winter-Bock, doppelbock
+
+
+_____________________________________________
+- Alpenbrauerei Bürgerbräu, Bad Reichenhall
+
+Alpenstoff, 5.3%, export
+
+Unser Bürgerbräu Reichenhaller Original Hell, 4.9%
+Unser Bürgerbräu Ruperti-Dunkel, 5.1%, dunkel
+
+Unser Bürgerbräu Hefe-Weizen Hell, 5.2%, weizen
+Unser Bürgerbräu Hefe-Weizen Dunkel, weizen)
+Unser Bürgerbräu Leichte Weiße, weizen
+Unser Bürgerbräu Rupertus Weizenbock, 7%, weizenbock
+Unser Bürgerbräu Suffikator Dunkler Doppelbock, 7.3%, doppelbock
+
+Unser Bürgerbräu Alt Reichenhaller Braumeister-Bier
+Unser Bürgerbräu Das Pils Superior, pils
+Unser Bürgerbräu 1633 Original Dunkel
+
+Unser Bürgerbräu Export
+Unser Bürgerbräu Hallgrafen-Bock Hell, bock
+
