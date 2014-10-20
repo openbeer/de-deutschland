@@ -151,35 +151,35 @@ Tegernseer Quirinus Dunkler Doppelbock, doppelbock
 _______________________________________________
 - Privatbrauerei Erdinger Weißbräu, Erding
 
-Erdinger Weißbier           # Weißbier
-Erdinger Kristall    # Weißbier Kristall
-Erdinger Urweisse   # Weißbier
+Erdinger Weißbier, 5.3%           # Weißbier
+Erdinger Kristall, 5.3%        # Weißbier Kristall
+Erdinger Urweisse, 5.2%   # Weißbier
 
-Erdinger Weißbier Dunkel, weizen
+Erdinger Dunkel|Erdinger Weißbier Dunkel, 5.6%, weizen
 Erdinger Weißbier Leicht, weizen
-Erdinger Pikantus Dunkler Weizenbock, weizenbock
 Erdinger Schneeweiße, weizen
 Erdinger Festweiße, weizen
+Erdinger Pikantus Dunkler Weizenbock, weizenbock
 
 _______________________________________________
 - Gräfliches Hofbrauhaus Freising, Freising
 
 Graf Ignaz Lager, lager
-Graf Ignaz Premium Pilsner, pils
+Graf Ignaz Premium Pilsner, 4.9%, pils
 Graf Toerring Export, export|spezial
 Graf Toerring Hell, helles
 Graf Toerring Schwarzbier Premium Dunkel, schwarzbier
 
-Hofbrauhaus Freising Dunkel Premium, dunkles
+Hofbrauhaus Freising Urhell, 4.9%, helles
+Hofbrauhaus Freising Dunkel Premium, 5.2%, dunkles
 Hofbrauhaus Freising Festbier, festbier
-Hofbrauhaus Freising Jägerbier, export
-Hofbrauhaus Freising Urhell, helles
+Hofbrauhaus Freising Jägerbier, 5.6%, export
 
-Huber Weisses Dunkel, dunkles_weizen
+Huber Weisses Original, 5.4%, weizen
+Huber Weisses Dunkel, 5.4%, dunkles_weizen
 Huber Weisses Fresh, weizen
 Huber Weisses Kristall, weizen
 Huber Weisses Leicht, weizen
-Huber Weisses Original, weizen
 
 
 ____________________________________________________

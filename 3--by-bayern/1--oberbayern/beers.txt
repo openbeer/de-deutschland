@@ -100,7 +100,210 @@ ___________________________________________________
 Schattenhofer Hirsch Helles Lagerbier, 4.8%, helles_lager
 Schattenhofer Hahn Pilsbier, 4.7%, pils
 
+___________________________________________________
+- Brauerei Bachmayer, Dorfen
+
+Bayrisch Export Hell, 5.1%
+Bayrisch Export Dunkel, 5.1%
+Bayrisch Spezial, 5.5%
+
+Bachmayer Classic Pils, 4.8%
+Bachmayer Festbier Dunkel, 5.5%
+
+Festbier Hell
+Josefator
+
+___________________________________________________
+- Privatbrauerei Hofmühl, Eichstätt
+
+Hofmühl Hell, 4.9%, lager|helles
+Hofmühl Weissbier, 5.4%, weizen
+Hofmühl Weissbier Dunkel, 5.4%, weizen|dunkel
+Hofmühl Weissbier Leicht, weizen|lite
+
+Hofmühl Privat Pils, 4.9%, pils
+
+Hofmühl Alligator, 7.5, dunkler_doppelbock
+
+Hofmühl Columbus, imperial_ipa
+Hofmühl Dunkel, dunkles
+Hofmühl Kellergold, kellerbier
+Hofmühl Märzengold, maerzen
+Hofmühl Volksfestbier, festbier|maerzen
+
+___________________________________________________
+- Eittinger Fischerbräu, Eitting
+
+Eittinger Fischer Weisse, 5.2%, weizen
+Eittinger Hell, 4.9%
+Eittinger Spezial, 5.8%
+Eittinger Urtyp Dunkel, 5.4%
+Eittinger Pilsner, 5%
+
+Eittinger Fest Weisse, weizen
+Eittinger Kirta-Bier
+Eittinger Maibock
+Eittinger St.Georg Doppelbock
+Eittinger Weihnachtsbier
+
+___________________________________________________
+- Brauerei Erharting, Erharting
+
+Erharting Export Hell, 5.1%, export
+Erharting Dunkel, 5.2%, dunkles
+Erharting Pils, 4.8%, pils
+
+Erharting Hefe Weisse, 4.7%, weizen
+Erharting Dunkle Ritter Weisse, 4.7%, dunkles_weizen
+
+Erharting Doppelritter, dunkler_doppelbock
+Erharting Festbier
+Erharting Leicht, lite
+Erharting Leichte Weisse, weizen|lite
+Erharting Ritter Zwerg, export)
+Erharting Rittertrunk Naturtrüb, zwickel
+Erharting Winterbier
+
+___________________________________________________
+- Klosterbrauerei Ettal, Ettal
+
+Benediktiner Weißbier Hell|Ettaler Kloster Weißbier, 5%
+Benediktinertrunk Edel Hell|Ettaler Kloster Edel Hell, 5.2%, lager|export
+
+Ettaler Kloster Dunkel, 5%, lager|dunkel|export
+Ettaler Curator Dunkler Doppelbock, bock
+Ettaler Kloster Pils, pils
+
+___________________________________________________
+- Flieger-Bräu, Feldkirchen
+
+Fliegerweisse
+
+___________________________________________________
+- Brauerei Gut Forsting, Forsting
+
+Gut Forsting Export Hell, 5.2%, export
+Gut Forsting Export Dunkel, 5.4%, dunkles_export
+
+Gut Forsting Weissbier Hell, 5%, weizen
+Xamax Lager, 4.7%
+
+Gut Forsting Bio-Bier, helles
+Gut Forsting Dunkler Doppelbock
+Gut Forsting Frühlingsfest-Märzen, festbier|maerzen
+Gut Forsting Kellerbier, kellerbier
+
+Gut Forsting Weihnachtsbier
+Gut Forsting Kirtabier
+
+Quartiermeister, export
+Wasserburger Pils, pils
+
+___________________________________________________
+- Inselbräu Frauenchiemsee, Frauenchiemsee
+
+Inselbräu Helles Zwickl, 5%, zwickel
+Inselbräu Helles Weißbier, 4.9%
+Inselbräu Dunkles Weißbier, 5.3%
+
+Inselbräu Märzen
+Inselbräu Christkindlbier
+
+___________________________________________________
+- Weißbräu, Freilassing
+
+Freilassinger Hefeweizen, 5.3%
+Freilassinger Hefeweizen Dunkel, 5.3%
+
+Frilazus, 6.5%
+Renator, 8%
+
+___________________________________________________
+- Bräuhaus (1. Freisinger Gasthausbrauerei), Freising
+
+Bräuhaus Hell, 5.6%
+Bräuhaus Weiße, 5.6%
+Bräuhaus Bock, 8.5%
+
+Bräuhaus Floriansbier
+Bräuhaus Herbstbier
+Bräuhaus Maibock
+Bräuhaus Schwarzbier
+Bräuhaus Weihnachtsbock
+
+___________________________________________________
+- Brauerei Baumer, Gars
+
+Baumer Export Hell|Garser Export Hell, 5%, export
+Baumer Märzen|Garser Märzen, 5.4%, maerzen
+Baumer Hefeweissbier|Garser Hefeweissbier, 5%, weizen
+
+___________________________________________________
+- Chiemseebräu, Grabenstätt
+
+Chiemseebräu Zwickl, 5.1%, zwickel
+Chiemseebräu Weißbier, 5.1%, weizen
+Chiemseebräu Schwarzbier, 5.1%
+
+Chiemseebräu Dunkler Bock, bock
+
+___________________________________________________
+- Wildbräu, Grafing
+
+Wildbräu Bayrisch Hell, 4.8%, helles
+
+Wildbräu Hefe Weisse, 5.1%, weizen
+Wildbräu Dunkle Weisse, 5.1%, weizen
+Wildbräu Leichte Weisse, weizen
+
+Wildbräu Kellerbier
+Wildbräu Weihnachtsbier
+
+Landpils, 4.8%, pils
+Meistersud, spezial
+
+___________________________________________________
+- Isar-Bräu, Großhesselohe (Pullach)
+
+Stationsweizen, 5.8%, weizen
+
+Braunbier
+Dinkelbier
+Maibock
+Weihnachtsbock
+
+___________________________________________________
+- Schloßbrauerei Grünbach, Grünbach (Bockhorn)
+
+Benno Scharl Braumeister Weizen, 5.3%, weizen
+
+Green Flash
+Grünbacher Altweizen Dunkel
+Grünbacher Altweizen Gold (Obergärig, Weizen)
+
+Grünbacher Kellerbier
+Grünbacher Urweiße Hell
+Grünbacher Winter Weiße, 5.7%
+
+Prinzen Bock, 7%
+
+Schlosstaler
+
+___________________________________________________
+- Die Brauwerkstatt, Haag an der Amper
+
+Die Brauwerkstatt Amper Zwickl, 5.6%
+Die Brauwerkstatt Yeti Winter Spezial, 5.8%
+Die Brauwerkstatt Big Foot, 7.7%
 
 
+___________________________________________________
+- Unertl Weißbier, Haag
+
+Unertl Weissbier Original, 4.8%, weizen
+Unertl Leichte Weisse, weizen
+
+Unertl Ursud (Erinnerungstrunk), 5.8%
+Unertl Weissbier Bock, weizenbock, 6.7%
 
 
